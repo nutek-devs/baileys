@@ -1,17 +1,17 @@
 {
-  "name": "baileys",
+  "name": "@nutek-devops/baileys",
   "version": "6.7.19",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/nutek-devs/baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:nutek-devs/baileys.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Laerthe Souza",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
